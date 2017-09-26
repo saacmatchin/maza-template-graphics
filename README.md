@@ -1,0 +1,1 @@
+# maza-template-graphics
